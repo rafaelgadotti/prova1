@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<!-- saved from url=(0055)file:///C:/Users/rafael.gadotti/Desktop/prova/att4.html -->
+<html lang="pt-br"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./att4_files/att4.css">
+</head>
+
+<body id="fundo">
+    <header id="painel">
+        <section>
+            <div class="titulo">
+                <h1>BARRA DE PROGRESSO</h1>
+            </div>
+            <br><br><br><br><br>
+            <div class="barra">
+                <div style="width: 75%">
+
+                </div>
+            </div>
+
+        </section>
+    </header>
+
+
+
+</body></html>

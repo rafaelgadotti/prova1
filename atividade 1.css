@@ -1,0 +1,16 @@
+.coluna{
+    display: flex;
+}
+.COLUNA1{
+    width: 70%;
+    background-color: red;
+    align-items: center;
+    margin-right: 30px;
+
+}
+.COLUNA2{
+    width: 30%;
+    background-color: blueviolet;
+    align-items: center;
+    margin-left: 50px;
+}

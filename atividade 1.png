@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<!-- saved from url=(0064)file:///C:/Users/rafael.gadotti/Desktop/prova/atividade%201.html -->
+<html lang="pt-br"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./atividade 1_files/atividade 1.css">
+    
+</head>
+<body>
+    <section class="coluna">
+        <div class="COLUNA1">
+            <h1>COLUNA 1</h1>
+        </div>
+        <div class="COLUNA2">
+            <h1>COLUNA 2</h1>
+        </div>
+
+    </section>
+    
+
+</body></html>
